@@ -27,5 +27,5 @@ In this picture, the songs in the data set are close to each other according to 
 
 
 
--
+.
 By the way, the name of the project (The Quest) is the name of the most popular song (the song with the highest bias) in the data set. And we liked this song very much and we decided to make it the name of the project and the group :)
