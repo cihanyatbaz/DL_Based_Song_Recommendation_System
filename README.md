@@ -17,7 +17,6 @@ Below we will suggest new songs for user number 47157. We will also try to guess
 
 
 
-
 In this picture, the songs in the data set are close to each other according to their bias values.
 
 
