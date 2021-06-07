@@ -11,10 +11,14 @@
 * Basically, our deep learning-based song recommendation system tries to understand the songs that the user likes, based on the songs that the user listens. In this way, it recommends the songs that the user does not listen to before but maybe can listen to many times in the future.
 
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 ![image](recommendation.PNG)
 
 * Above, we are suggesting new songs for user number 47157. We also tried to guess how many times user 47157 can listen to these songs. The main picture is the songs that 47157users have listened to before. The parts below are the IDs of the songs that our model predicts and the estimation of how many times these songs will be listened to by that user.
 
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 
 ![image](bias_similarity.PNG)
